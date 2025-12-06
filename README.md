@@ -55,12 +55,4 @@ Clone the repository:
 git clone https://github.com/Prakash123456780/Microservices.git
 cd Microservices
 
----
 
-Microservices/
- ├── account-service/
- ├── customer-service/
- ├── product-service/
- ├── order-service/
- ├── payment-service/
- └── delivery-service/
